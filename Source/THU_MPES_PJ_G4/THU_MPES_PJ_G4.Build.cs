@@ -12,11 +12,6 @@ public class THU_MPES_PJ_G4 : ModuleRules
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
-        // Use Imgui modules provided by plugin.
-        PublicDependencyModuleNames.AddRange(new string[] { "ImGui" });
-
-        PrivateDependencyModuleNames.AddRange(new string[] { "ImGui" });
-
         // Uncomment if you are using Slate UI
         // PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });
 
